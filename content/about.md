@@ -1,7 +1,6 @@
 ---
 title: "About"
 date: 2026-05-14
-layout: "about"
 url: "/about/"
 summary: "ハコサギについて"
 ---
