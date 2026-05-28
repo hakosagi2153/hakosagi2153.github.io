@@ -2,7 +2,8 @@ baseURL = "https://hakosagi2153.github.io/"
 languageCode = "ja"
 title = "🦢 ハコサギのブログ"
 theme = "PaperMod"
-paginate = 10
+[pagination]
+  pagerSize = 10
 enableRobotsTXT = true
 
 [params]
